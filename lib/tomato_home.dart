@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:manipalchat/pages/call_screen.dart';
-import 'package:manipalchat/pages/camera_screen.dart';
-import 'package:manipalchat/pages/chat_screen.dart';
-import 'package:manipalchat/pages/status_screen.dart';
+import 'package:tomatochat/pages/call_screen.dart';
+import 'package:tomatochat/pages/camera_screen.dart';
+import 'package:tomatochat/pages/chat_screen.dart';
+import 'package:tomatochat/pages/status_screen.dart';
 
 class WhatsAppHome extends StatefulWidget {
   @override

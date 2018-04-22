@@ -1,4 +1,4 @@
-package com.example.manipalchat;
+package com.example.tomatochat;
 
 import android.os.Bundle;
 
